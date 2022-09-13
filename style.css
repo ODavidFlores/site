@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: dimgray;
+    margin: 0px;
+}
+
+header{
+    border-radius: 20px;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+header > img{
+    width: 100%;
+    position: relative;
+    border-radius: 20px;
+}
+
+main{
+    border-radius: 20px;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+main > section > article > p{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+main > section > article{
+    text-align: center;
+}
+
+#autor{
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+#centralizado{
+    text-align: center;
+}
+
+nav{
+    border-radius: 40px;
+    text-align: center;
+    background-color: rgb(10, 10, 10);
+    padding: 3px;
+}
+
+nav > a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 50px;
+}
+
+article{
+    border-radius: 20px;
+    background-color: lightgray;
+    padding: 5px;
+}
+
+#art1{
+    border-radius: 20px 20px 0px 0px;
+}
+
+#art2{
+    border-radius: 0px 0px 20px 20px;
+}
+
+footer{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    margin: 0px;
+}
+
