@@ -95,11 +95,11 @@ article{
 div.img {
     display: inline-block;
     margin: -5px -2.9px -5px -2.9px;
-    transition: opacity .7s;
+
 }
 
 div:hover{
-    opacity: .9;
+    transform: scale(1.2);
 }
 
 div.img >img{
