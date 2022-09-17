@@ -63,6 +63,14 @@ main > section > article{
     margin-right: 50px;
 }
 
+#sublinhado > a{
+    text-decoration: none;
+    text-decoration: underline;
+    color: white;
+    font-weight: bold;
+    margin-right: 50px;
+}
+
 nav{
     border-radius: 40px;
     text-align: center;
