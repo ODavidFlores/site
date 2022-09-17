@@ -65,7 +65,6 @@ main > section > article{
 }
 
 #sublinhado > a{
-    text-decoration: none;
     text-decoration: underline;
     color: white;
     font-weight: bold;
@@ -117,7 +116,7 @@ footer{
     border-radius: 40px;
     background-color: black;
     color: white;
-    text-align: center;
+    text-align: justify;
     padding: 1px;
     margin: 5px;
 }
