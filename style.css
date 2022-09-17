@@ -21,11 +21,9 @@ header > img{
 }
 
 main{
-    border-radius: 20px;
     background-color: white;
-    padding: 10px;
-    margin: 10px;
-    box-shadow: 2px 2px 2px 2px;
+    padding: 0px;
+    margin: 0px;
 }
 
 main > section > article > p{
@@ -55,6 +53,7 @@ main > section > article{
     background-color: rgb(10, 10, 10);
     padding: 3px;
     font-weight: bold;
+    margin: 30px;
 }
 
 #redes > a{
@@ -76,35 +75,24 @@ nav > a{
     color: white;
     font-weight: bold;
     margin-right: 50px;
-    transition-duration: .5s;
 }
 
 article{
-    border-radius: 20px;
-    background-color: lightgray;
-    padding: 5px;
-    box-shadow: 2px 2px 2px 2px;
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
 }
 
 article > img{
     max-width: 310px;
-}
-
-#art1{
-    border-radius: 20px 20px 0px 0px;
-}
-
-#art2{
-    border-radius: 0px 0px 20px 20px;
+    width: 100%;
 }
 
 footer{
-    border-radius: 20px;
     background-color: black;
     color: white;
     text-align: center;
-    padding: 1px;
+    padding: 0px;
     margin: 0px;
-    box-shadow: 2px 2px 2px 2px;
 }
 
