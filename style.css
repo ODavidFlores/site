@@ -116,7 +116,8 @@ footer{
     border-radius: 40px;
     background-color: black;
     color: white;
-    text-align: justify;
+    text-align: center;
+    position: static;
     padding: 1px;
     margin: 5px;
 }
