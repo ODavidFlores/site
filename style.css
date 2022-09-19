@@ -98,10 +98,6 @@ div.img {
 
 }
 
-div:hover{
-    transform: scale(1.2);
-}
-
 div.img >img{
     max-width: 300px;
     width: 100%;
